@@ -1,10 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir tmp
 cd tmp
 mkdir my_first_directory
-
-
-=======
-mkdir -p tmp/my_first_directory
->>>>>>> c9f1586a2ecf0fe6a1a885cf48dea6de4634b332
